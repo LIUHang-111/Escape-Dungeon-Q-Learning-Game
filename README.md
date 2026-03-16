@@ -32,20 +32,15 @@ The agent gradually learns an optimal policy through repeated interaction with t
 ## Project Structure
 
 Escape-Dungeon-Q-Learning-Game
-│
-├── assets/                         # Game interface images and visual assets
-│
-├── escape_dungeon/                 # Game environment and source code
-│
-├── Escape Dungeon Q-Learning Game.ipynb   # Jupyter notebook demonstration
-│
-├── training_log.txt                # Training process output log
-├── report.pdf                      # Project report
-│
-├── README.md                       # Project documentation
-└── .gitignore
+1. assets/                         # Game interface images and visual assets
+2. escape_dungeon/                 # Game environment and source code
+3. Escape Dungeon Q-Learning Game.ipynb   # Jupyter notebook demonstration
+4. training_log.txt                # Training process output log
+5. report.pdf                      # Project report
+6. README.md                       # Project documentation
+7.  .gitignore
 
-##how to run
+## how to run
 
 1. Download the escape_dungeon folder (or the zipped file) from this repository.
 
@@ -61,3 +56,5 @@ source code for the dungeon environment and Q-learning agent
 Note:
 The code currently uses hard-coded image paths.
 You may need to modify the image loading paths in the code so that they match the location of the assets folder on your computer.
+
+
