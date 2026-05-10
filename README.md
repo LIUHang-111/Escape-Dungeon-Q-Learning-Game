@@ -7,6 +7,7 @@ The agent learns to navigate through the dungeon, avoid traps, and reach the exi
 
 The environment contains obstacles and special tiles that affect the agent's movement, making the task more challenging.
 
+![Escape-Dungeon-Q-Learning-Game](image.png)
 ---
 
 ## Algorithm
